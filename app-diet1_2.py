@@ -106,9 +106,9 @@ ax[0].set_title('The boxplot of protein in your recipes')
 ax[1].set_title('The boxplot of carbs in your recipes')     
 ax[2].set_title('The boxplot of fat in your recipes')          
 
-df[df.Diet_type == diet_filter].percentage_protein.plot.box(ax=ax[0])
-df[df.Diet_type == diet_filter].percentage_carbs.plot.box(ax=ax[1])
-df[df.Diet_type == diet_filter].percentage_fat.plot.box(ax=ax[2])
+df.percentage_protein.plot.box(ax=ax[0])
+df.percentage_carbs.plot.box(ax=ax[1])
+df.percentage_fat.plot.box(ax=ax[2])
 st.pyplot(fig)
 
 # summary
