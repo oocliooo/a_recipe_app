@@ -1,5 +1,5 @@
-# a_recipe_app
-## by Eric & Sirena
+Recipe APP
+##### by Eric & Sirena
 >Focusing on your diet health
 
 ### A diet analysis app
