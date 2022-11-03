@@ -1,11 +1,11 @@
-# a_recipe_app
+# A Recipe Recommendation App
 >Focusing on your diet health
 
-### A diet analysis app
+### By Eric and Sirena
 It is an app that aims to recommend recipes to users based on their preferred tastes and to filter recipes to suit their dietary needs with professional nutritional ratios.
 
 
-## Web Page
+## Link of the app
 [Link](https://yh-eric-chan-a-recipe-app-app-diet1-2-g9ufu4.streamlitapp.com/)
 ![food](https://ts1.cn.mm.bing.net/th/id/R-C.ab56ddba2f2ea922e7e289a4153fd537?rik=4UScp0wtmkXElg&riu=http%3a%2f%2fimg.aiimg.com%2fuploads%2fallimg%2f170927%2f263915-1F92G51210.jpg&ehk=1SphrCaTydoZbxY4LA7Z8NKF%2bPe4CF3jke0B4n19bWU%3d&risl=&pid=ImgRaw&r=0)
 
