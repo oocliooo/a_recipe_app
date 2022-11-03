@@ -1,4 +1,4 @@
-Recipe APP
+# Recipe APP
 ##### by Eric & Sirena
 >Focusing on your diet health
 
