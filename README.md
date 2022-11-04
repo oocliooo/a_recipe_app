@@ -3,7 +3,7 @@
 
 ## A Recipe Recommendation App
 >Focusing on your diet health
-It is an app that aims to recommend recipes to users based on their preferred tastes and to filter recipes to suit their dietary needs with professional nutritional ratios.
+>It is an app that aims to recommend recipes to users based on their preferred tastes and to filter recipes to suit their dietary needs with professional nutritional ratios.
 
 ### Dataset
 [Diets, Recipes And Their Nutrients](https://www.kaggle.com/datasets/thedevastator/healthy-diet-recipes-a-comprehensive-dataset)
