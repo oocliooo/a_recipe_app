@@ -1,10 +1,9 @@
 # Recipe APP
 ##### by Eric & Sirena
-# A Recipe Recommendation App
 
+## A Recipe Recommendation App
 >Focusing on your diet health
 
-### By Eric and Sirena
 It is an app that aims to recommend recipes to users based on their preferred tastes and to filter recipes to suit their dietary needs with professional nutritional ratios.
 
 ### Dataset
